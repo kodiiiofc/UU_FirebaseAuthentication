@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Электронная почта</string>
+    <string name="already_has_account_tv">Уже есть аккаунт.</string>
+    <string name="email_et">email</string>
+    <string name="password_et">пароль</string>
+    <string name="confirm_password_et">подтвердите пароль</string>
+    <string name="sign_up_btn">Зарегистрироваться</string>
+    <string name="login_btn">Войти</string>
+    <string name="has_not_account_tv">Еще нет аккаунта?</string>
+    <string name="exit_menu">Выйти</string>
+</resources>

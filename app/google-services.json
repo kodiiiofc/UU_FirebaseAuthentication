@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070682541189",
+    "project_id": "kodiiiofc-firebase-auth",
+    "storage_bucket": "kodiiiofc-firebase-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070682541189:android:72c196bbf0997788b86dec",
+        "android_client_info": {
+          "package_name": "com.kodiiiofc.urbanuniversity.firebaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRVnp_qfGnRZedVNF73rVvukeUP1gTH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
